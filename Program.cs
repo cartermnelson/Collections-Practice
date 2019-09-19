@@ -7,9 +7,26 @@ namespace CollectionsPractice
     {
         static void Main(string[] args)
         {
-            int[] numarr = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
+            int[] numarr = new int[10];
+            for (int i = 0; i < numarr.Length; i++)
+            {
+                numarr[i] = i;
+            }
+
             string[] stringarr = { "Tim", "Martin", "Nikki", "Sara" };
-            bool[] boolarr = { true, false, true, false, true, false, true, false, true, false };
+
+            bool[] boolarr = new bool[10];
+            for (int i = 0; i < boolarr.Length; i++)
+            {
+                if (i % 2 == 0 || i == 0)
+                {
+                    boolarr[i] = true;
+                }
+                else
+                {
+                    boolarr[i] = false;
+                }
+            }
 
             List<string> flavors = new List<string>();
             flavors.Add("Vanilla");
@@ -26,7 +43,7 @@ namespace CollectionsPractice
             Random rand = new Random();
             foreach (var name in stringarr)
             {
-                dict.Add(name, flavors[rand.Next(0, flavors.Count-1)]);
+                dict.Add(name, flavors[rand.Next(0, flavors.Count - 1)]);
             }
         }
     }
