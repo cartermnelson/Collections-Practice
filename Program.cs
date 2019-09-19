@@ -43,7 +43,9 @@ namespace CollectionsPractice
             Random rand = new Random();
             foreach (var name in stringarr)
             {
-                dict.Add(name, flavors[rand.Next(0, flavors.Count - 1)]);
+                string flavor = flavors[rand.Next(0, flavors.Count - 1)];
+                dict.Add(name, flavor);
+                Console.WriteLine(name + flavor);
             }
         }
     }
