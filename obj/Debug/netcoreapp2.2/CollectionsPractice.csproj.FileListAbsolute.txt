@@ -1,0 +1,11 @@
+C:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\CollectionsPractice\bin\Debug\netcoreapp2.2\CollectionsPractice.deps.json
+C:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\CollectionsPractice\bin\Debug\netcoreapp2.2\CollectionsPractice.runtimeconfig.json
+C:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\CollectionsPractice\bin\Debug\netcoreapp2.2\CollectionsPractice.runtimeconfig.dev.json
+c:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\CollectionsPractice\bin\Debug\netcoreapp2.2\CollectionsPractice.dll
+c:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\CollectionsPractice\bin\Debug\netcoreapp2.2\CollectionsPractice.pdb
+c:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\CollectionsPractice\obj\Debug\netcoreapp2.2\CollectionsPractice.csprojAssemblyReference.cache
+c:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\CollectionsPractice\obj\Debug\netcoreapp2.2\CollectionsPractice.csproj.CoreCompileInputs.cache
+c:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\CollectionsPractice\obj\Debug\netcoreapp2.2\CollectionsPractice.AssemblyInfoInputs.cache
+c:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\CollectionsPractice\obj\Debug\netcoreapp2.2\CollectionsPractice.AssemblyInfo.cs
+c:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\CollectionsPractice\obj\Debug\netcoreapp2.2\CollectionsPractice.dll
+c:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\CollectionsPractice\obj\Debug\netcoreapp2.2\CollectionsPractice.pdb
